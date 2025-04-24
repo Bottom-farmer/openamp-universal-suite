@@ -46,6 +46,8 @@
 *.mod*
 *.cmd
 .tmp_versions/
+intercore_driver/
+openamp_core/
 modules.order
 Module.symvers
 Mkfile.old
