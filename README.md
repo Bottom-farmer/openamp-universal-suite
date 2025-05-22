@@ -1,6 +1,6 @@
 # openamp-universal-suite
 
-一个通用的 OpenAMP linux异构部署方案，旨在简化和加速异构多核系统的开发与集成。
+一种通用的 OpenAMP 异构部署方案，旨在简化和加速异构多核系统的开发与集成。
 
 ---
 
@@ -15,6 +15,8 @@
 ## 方案架构图
 
 ![image-20250425001128218](./image/image.png)
+
+![image-20250425001128218](./image/image1.png)
 
 ## 方案特性
 
